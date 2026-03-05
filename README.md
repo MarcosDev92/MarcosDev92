@@ -92,13 +92,17 @@ Idealizei, projetei e desenvolvi uma aplicação web completa, centralizando tod
 | Sessões Canceladas          | 2%          | < 5%        | ✅       |
 
 ---
+![ezgif com-video-to-gif-converter (3)](https://github.com/user-attachments/assets/9afda908-4e11-4812-b448-80cffca6157a)
+
+![ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/27062ba1-7b75-4793-85f4-34d1ef926ed7)
+
+![Desktop2026-03-0421-14-46-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/6e47d57e-0141-416f-a9a7-615cfc140997)
 
 ## 🤝 Contato
 
 Fique à vontade para entrar em contato para saber mais, propor parcerias ou discutir oportunidades:
 
 - ✉️ **E-mail:** marcossantosjunior92@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/marcos-santos-junior92) *(adicione seu LinkedIn se desejar)*
 
 ---
 
